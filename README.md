@@ -6,15 +6,13 @@ A single-page application clone of Hulu, that uses TMDB API to show server-side 
 
 ## Screenshots
 
-!["Home page"](https://github.com/eascan/gmail-clone/blob/master/docs/Gmail-main.png)
-!["Login page"](https://github.com/eascan/gmail-clone/blob/master/docs/Gmail-login.png)
+!["Home page"](https://github.com/eascan/Hoolu/blob/main/docs/Hoolu.png)
 
 ## Key Features
 
-- Firebase database storage
-- Firebase authentication
-- Redux user state and mail states in store
-- Ability for a user to register, login & compose/send emails
+- TMDB API
+- Server-side rendering
+- Next.js
 
 ## Tech Stack
 
